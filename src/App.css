@@ -1,0 +1,102 @@
+.App {
+  /* display: flex;
+  flex-direction: row; */
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  margin-bottom: 4em;
+
+}
+
+/* less than 768px */
+/* @media (max-width:768px){
+  .App {
+    display: flex;
+    flex-direction: column;
+  }
+} */
+p{
+  font-size: 0.8em;
+
+}
+.App-logo {
+  height: 10em;
+}
+
+.center {
+  text-align: center;
+}
+
+.myPic {
+  height: 15em;
+  width: 15em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.contact-me {
+  color: #5f6166;
+  font-size: 0.8em;
+}
+
+.App-header {
+  background-color: #8899bb;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.head-text {
+  margin-top: 1.8em;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.indeed5{
+  text-indent: 20px;
+}
+
+.fab {
+  font-size: 1.3em;
+  margin-right: .5em;
+}
+
+.fas {
+  font-size: 1.3em;
+  margin-right: .5em;
+}
+
+.b1 {
+  margin-bottom: 4em;
+}
+
+.bold {
+  font-weight: 500px;
+}
+
+/* .body{
+  background-color: rgb(138, 139, 141);
+}
+
+ 
+html {
+  background-color: rgb(68, 75, 72);
+} */
